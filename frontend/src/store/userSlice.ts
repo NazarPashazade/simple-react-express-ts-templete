@@ -8,6 +8,8 @@ const initialState = {
     error: null as string | null,
 }
 
+// using Thunk middleware to handle async actions
+
 const usersSlice = createSlice({
     name: 'users',
     initialState,

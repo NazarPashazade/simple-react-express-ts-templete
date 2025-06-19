@@ -5,6 +5,7 @@
 - **Redux Toolkit**
 - **Material UI**
 - **Lazy Loading** (via `React.lazy` and `Suspense`)
+- **Thunk middleware to handle async actions**
 
 
 #
